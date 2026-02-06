@@ -1,11 +1,11 @@
 # Toxic Comment Classification (NLP)
 
 ## Overview
-This project demonstrates an NLP pipeline for detecting toxic comments in Russian.
+This project demonstrates an NLP pipeline for detecting toxic comments in Russian text with precision score 95%.
 The model is based on TF-IDF and Logistic Regression.
 
 ## Data
-- Text comments in Russian
+- Text comments in Russian and there is file with dataset. Dataset was taken from kaggle
 - Binary target: toxic / non-toxic
 
 ## Approach
